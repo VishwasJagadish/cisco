@@ -1,0 +1,10 @@
+<project>
+<modelVersion>1.0.0</modelVersion>
+<groupId>cisco.com</groupId>
+<artifactId>cisco</artifactId>
+<packaging>war</packaging>
+<version>1.1_RELEASE</version>
+<build>
+<finalName>cisco</finalName>
+</build>
+</project>
